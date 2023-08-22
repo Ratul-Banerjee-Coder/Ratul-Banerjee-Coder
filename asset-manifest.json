@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0da068b.css",
+    "main.js": "/static/js/main.38b75ccf.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/favicon.ico": "/static/media/favicon.06b70f01d452c7588443.ico",
+    "static/media/cpplogo.jpeg": "/static/media/cpplogo.202a22e0b966c57f0574.jpeg",
+    "static/media/react-logo.png": "/static/media/react-logo.f153eb9f28437192c6a0.png",
+    "static/media/amri.png": "/static/media/amri.d8151e81d83b94c33a76.png",
+    "static/media/aodritto.png": "/static/media/aodritto.4adcd08813bfa83dcdb8.png",
+    "static/media/python_logo.png": "/static/media/python_logo.63580e54e2e501e3d07d.png",
+    "static/media/arpan.png": "/static/media/arpan.e6fa8e949e2a4c45d707.png",
+    "static/media/ratul.png": "/static/media/ratul.1f975113896e9d55a5e2.png",
+    "static/media/bg.jpg": "/static/media/bg.5f7fef353830915006dc.jpg",
+    "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "index.html": "/index.html",
+    "main.e0da068b.css.map": "/static/css/main.e0da068b.css.map",
+    "main.38b75ccf.js.map": "/static/js/main.38b75ccf.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0da068b.css",
+    "static/js/main.38b75ccf.js"
+  ]
+}
